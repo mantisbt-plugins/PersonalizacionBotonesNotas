@@ -1,0 +1,4 @@
+<?php
+   $s_plugin_personalizacionbotonesnotas_title       = 'Customizing buttons a note';
+   $s_plugin_personalizacionbotonesnotas_description = 'Add a new button to the notes belonging to a task';	
+   $s_plugin_personalizacionbotonesnotas_enviar = 'Send';

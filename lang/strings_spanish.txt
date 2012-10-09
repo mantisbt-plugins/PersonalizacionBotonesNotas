@@ -1,0 +1,4 @@
+<?php
+   $s_plugin_personalizacionbotonesnotas_title       = 'Personalización de los botones de una nota';
+   $s_plugin_personalizacionbotonesnotas_description = 'Añade un nuevo botón a las notas pertenecientes a una tarea';
+   $s_plugin_personalizacionbotonesnotas_enviar = 'Enviar';
